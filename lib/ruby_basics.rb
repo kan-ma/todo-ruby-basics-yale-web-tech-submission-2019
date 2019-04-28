@@ -1,4 +1,5 @@
 def division(num1, num2)
+  num1 / num2
   num1 = 12
   num2 = 2
 puts division(num1, num2)
