@@ -7,10 +7,10 @@ end
 division #{num1, num2}
 
 def assign_variable(value)
-puts assign_variable(20)  
+puts assign_variable("Precious")  
   
 end
-assign_variable #{20}
+assign_variable #{Precious}
 
 def argue
   
